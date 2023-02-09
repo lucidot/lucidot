@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 
 
 
-![GitHub Stats](https://cdn.discordapp.com/attachments/1058298590520418395/1073194965288620125/LUCID.png)
+![GitHub Stats](https://cdn.discordapp.com/attachments/1058298590520418395/1073195348853526558/LUCID-removebg-preview.png)
 
