@@ -37,5 +37,4 @@ Here are some ideas to get you started:
 
 
 
-![GitHub Stats](https://cdn.discordapp.com/attachments/1058298590520418395/1073196275467563058/035963c98412ea010264a22988409c3323ca9b57.png)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
