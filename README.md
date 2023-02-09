@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 
 
 
-![GitHub Stats]([https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://cdn.discordapp.com/attachments/1058298590520418395/1073194965288620125/LUCID.png))
+![GitHub Stats](https://cdn.discordapp.com/attachments/1058298590520418395/1073194965288620125/LUCID.png)
 
